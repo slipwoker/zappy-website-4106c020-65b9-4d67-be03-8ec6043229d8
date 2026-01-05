@@ -1,51 +1,61 @@
-# Business — Generative Engine Optimization Map
+# פנטזיה זורמת — Generative Engine Optimization Map
+
+> A צילום business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://fantasia-zoremet.zappy5.app
 גלו צילום מקצועי שלוכד רגעים בלתי נשכחים. צילומי ילדים בסטודיו בישראל עם נגיעה אישית וייחודית.
 
 ### שירותים
-https://example.com/services
+https://fantasia-zoremet.zappy5.app/services
 גלו את מגוון שירותי הצילום המקצועיים שלנו: צילומי ילדים בסטודיו בישראל, צלם משפחה מקצועי וצילומי חלאקה מיוחדים.
 
 ### תיק עבודות
-https://example.com/portfolio
+https://fantasia-zoremet.zappy5.app/portfolio
 צפו בתיק העבודות שלנו וגלו את איכות הצילום המקצועית שלנו. צילומי משפחה, ילדים וחלאקה בסגנון וינטג' ייחודי.
 
 ### אודות
-https://example.com/about
+https://fantasia-zoremet.zappy5.app/about
 הכירו את פנטזיה זורמת - צלם משפחה מקצועי המתמחה בצילומי ילדים בסטודיו בישראל. הסיפור שלנו, הערכים והגישה המיוחדת שלנו.
 
 ### צור קשר
-https://example.com/contact
+https://fantasia-zoremet.zappy5.app/contact
 צרו איתנו קשר להזמנת צילום מקצועי. צילומי ילדים בסטודיו בישראל, צלם משפחה מקצועי וצילומי חלאקה מיוחדים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://fantasia-zoremet.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://fantasia-zoremet.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://fantasia-zoremet.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About פנטזיה זורמת
+פנטזיה זורמת is a business in the צילום industry.
+
+## Target Audience
+משפחות והורים
+
+## Industry
+צילום
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://fantasia-zoremet.zappy5.app/sitemap.xml
+- **Robots.txt**: https://fantasia-zoremet.zappy5.app/robots.txt
