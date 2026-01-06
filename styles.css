@@ -676,3 +676,469 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+/* === AI CUSTOMIZATION ADDITIONS === */
+/* Updated Color Scheme - Soft Muted Green & Pink from Logo */
+:root {
+  --primary-color: #C8D5C8; /* Soft muted green from logo */
+  --secondary-color: #E8B4D4; /* Soft pink from logo */
+  --accent-color: #D4C5B9; /* Earthy beige tone */
+  --text-color: #4a4a4a;
+  --bg-white: #ffffff;
+  --bg-light: #F5F7F5; /* Very light green tint */
+  --shadow: 0 4px 12px rgba(0,0,0,0.08);
+  --nav-color: #4a4a4a;
+  --nav-hover-color: #C8D5C8; /* Green hover */
+}
+
+/* Navigation hover states */
+.nav-menu a:hover {
+  color: #C8D5C8 !important;
+}
+
+/* CTA Buttons - Soft Pink */
+.nav-cta-btn {
+  background: #E8B4D4 !important;
+  border-color: #E8B4D4 !important;
+  color: #ffffff !important;
+}
+
+.nav-cta-btn:hover {
+  background: #D9A3C5 !important;
+  border-color: #D9A3C5 !important;
+  box-shadow: 0 4px 12px rgba(232,180,212,0.3) !important;
+}
+
+/* Hero Button */
+.btn-hero {
+  background: #E8B4D4 !important;
+  border-color: #E8B4D4 !important;
+  color: #ffffff !important;
+}
+
+.btn-hero:hover {
+  background: #D9A3C5 !important;
+  border-color: #D9A3C5 !important;
+  box-shadow: 0 6px 16px rgba(232,180,212,0.4) !important;
+}
+
+/* Section Backgrounds - Soft Green */
+.intro-section, 
+.about-story,
+.why-choose,
+.process-section,
+.approach-section,
+.commitment-section,
+.faq-section,
+.testimonials-section {
+  background: #F5F7F5 !important;
+}
+
+/* Alternate sections with very light green */
+.page-header {
+  background: #F5F7F5 !important;
+}
+
+/* Service Cards Hover */
+.service-card:hover {
+  box-shadow: 0 8px 20px rgba(200,213,200,0.2) !important;
+}
+
+/* Benefit Icons */
+.benefit-icon {
+  color: #C8D5C8 !important;
+}
+
+/* CTA Section Background - Gradient with new colors */
+.cta-section {
+  background: linear-gradient(135deg, #C8D5C8, #E8B4D4) !important;
+}
+
+/* CTA Button in CTA Section */
+.btn-cta {
+  background: #ffffff !important;
+  color: #C8D5C8 !important;
+  border-color: #ffffff !important;
+}
+
+.btn-cta:hover {
+  background: transparent !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+/* Value Icons */
+.value-icon {
+  color: #C8D5C8 !important;
+}
+
+/* Contact Icons */
+.contact-icon {
+  background: #E8B4D4 !important;
+}
+
+/* Form Submit Button */
+.btn-submit {
+  background: #E8B4D4 !important;
+  border-color: #E8B4D4 !important;
+}
+
+.btn-submit:hover {
+  background: #D9A3C5 !important;
+  border-color: #D9A3C5 !important;
+  box-shadow: 0 6px 16px rgba(232,180,212,0.3) !important;
+}
+
+/* Contact Details Links */
+.contact-details a:hover {
+  color: #C8D5C8 !important;
+}
+
+/* Pricing Button */
+.btn-pricing {
+  background: #E8B4D4 !important;
+  border-color: #E8B4D4 !important;
+}
+
+.btn-pricing:hover {
+  background: #D9A3C5 !important;
+  border-color: #D9A3C5 !important;
+}
+
+/* Popular Badge */
+.popular-badge {
+  background: #E8B4D4 !important;
+}
+
+/* Pricing Card Featured Border */
+.pricing-card.featured {
+  border-color: #C8D5C8 !important;
+}
+
+/* Testimonial Stars */
+.testimonial-stars {
+  color: #E8B4D4 !important;
+}
+
+/* Testimonial Author */
+.testimonial-author {
+  color: #C8D5C8 !important;
+}
+
+/* Commitment Item Icons */
+.commitment-item i {
+  color: #C8D5C8 !important;
+}
+
+/* Step Number Circle */
+.step-number {
+  background: #C8D5C8 !important;
+}
+
+/* Gallery Overlay Gradient */
+.gallery-overlay {
+  background: linear-gradient(to top, rgba(200,213,200,0.9), transparent) !important;
+}
+
+/* Mobile Toggle & Phone Button Hover */
+.mobile-toggle:hover svg,
+.phone-header-btn:hover svg {
+  color: #C8D5C8 !important;
+}
+
+/* Form Focus States */
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: #C8D5C8 !important;
+}
+
+/* WhatsApp Float Button */
+.whatsapp-float {
+  background: #C8D5C8 !important;
+}
+
+/* Page Header with soft green background */
+body {
+  background: #fefefe !important;
+}
+
+/* Ensure all interactive pink elements use the softer pink */
+[style*="background-color: #e895c7"],
+[style*="background: #e895c7"],
+[data-element-type="button"][style*="#e895c7"] {
+  background-color: #E8B4D4 !important;
+  background: #E8B4D4 !important;
+  border-color: #E8B4D4 !important;
+}
+
+/* Ensure hover states for inline styled buttons */
+[style*="background-color: #e895c7"]:hover,
+[style*="background: #e895c7"]:hover,
+[data-element-type="button"][style*="#e895c7"]:hover {
+  background-color: #D9A3C5 !important;
+  background: #D9A3C5 !important;
+  border-color: #D9A3C5 !important;
+}
+
+/* === AI CUSTOMIZATION ADDITIONS === */
+/* Updated Color Scheme - Earthy Pink & Sage Green from Logo */
+:root {
+  --primary-color: #E8B5C8 !important; /* Earthy pink from logo */
+  --secondary-color: #B8C9B8 !important; /* Soft sage green from logo */
+  --accent-color: #F5EFE7 !important; /* Warm cream */
+  --text-color: #4a4a4a !important;
+  --secondary-text-color: #8B7B6B !important; /* Earthy brown */
+  --bg-white: #ffffff !important;
+  --bg-light: #F5EFE7 !important; /* Warm cream background */
+  --bg-sage: #B8C9B8 !important; /* Sage green background */
+  --shadow: 0 4px 12px rgba(0,0,0,0.08) !important;
+  --nav-color: #4a4a4a !important;
+  --nav-hover-color: #E8B5C8 !important; /* Pink hover */
+}
+
+/* Navigation hover states */
+.nav-menu a:hover {
+  color: #E8B5C8 !important;
+}
+
+/* CTA Buttons - Earthy Pink */
+.nav-cta-btn {
+  background: #E8B5C8 !important;
+  border-color: #E8B5C8 !important;
+  color: #ffffff !important;
+}
+
+.nav-cta-btn:hover {
+  background: #D9A4B7 !important;
+  border-color: #D9A4B7 !important;
+  box-shadow: 0 4px 12px rgba(232,181,200,0.3) !important;
+}
+
+/* Hero Button */
+.btn-hero {
+  background: #E8B5C8 !important;
+  border-color: #E8B5C8 !important;
+  color: #ffffff !important;
+}
+
+.btn-hero:hover {
+  background: #D9A4B7 !important;
+  border-color: #D9A4B7 !important;
+  box-shadow: 0 6px 16px rgba(232,181,200,0.4) !important;
+}
+
+/* Alternating Section Backgrounds */
+.intro-section, 
+.about-story,
+.process-section,
+.approach-section,
+.commitment-section,
+.faq-section,
+.portfolio-intro {
+  background: #F5EFE7 !important;
+}
+
+.services-highlight,
+.why-choose,
+.testimonials-section,
+.values-section,
+.why-vintage,
+.pricing-section,
+.services-detailed {
+  background: #B8C9B8 !important;
+}
+
+/* Page Header */
+.page-header {
+  background: #F5EFE7 !important;
+}
+
+/* Service Cards Hover */
+.service-card:hover {
+  box-shadow: 0 8px 20px rgba(232,181,200,0.2) !important;
+}
+
+/* Benefit Icons */
+.benefit-icon {
+  color: #E8B5C8 !important;
+}
+
+/* CTA Section Background - Gradient with new colors */
+.cta-section {
+  background: linear-gradient(135deg, #E8B5C8, #B8C9B8) !important;
+}
+
+/* CTA Button in CTA Section */
+.btn-cta {
+  background: #ffffff !important;
+  color: #E8B5C8 !important;
+  border-color: #ffffff !important;
+}
+
+.btn-cta:hover {
+  background: transparent !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+/* Value Icons */
+.value-icon {
+  color: #E8B5C8 !important;
+}
+
+/* Contact Icons */
+.contact-icon {
+  background: #E8B5C8 !important;
+}
+
+/* Form Submit Button */
+.btn-submit {
+  background: #E8B5C8 !important;
+  border-color: #E8B5C8 !important;
+  color: #ffffff !important;
+}
+
+.btn-submit:hover {
+  background: #D9A4B7 !important;
+  border-color: #D9A4B7 !important;
+  box-shadow: 0 6px 16px rgba(232,181,200,0.3) !important;
+}
+
+/* Contact Details Links */
+.contact-details a:hover {
+  color: #E8B5C8 !important;
+}
+
+/* Pricing Button */
+.btn-pricing {
+  background: #E8B5C8 !important;
+  border-color: #E8B5C8 !important;
+  color: #ffffff !important;
+}
+
+.btn-pricing:hover {
+  background: #D9A4B7 !important;
+  border-color: #D9A4B7 !important;
+}
+
+/* Popular Badge */
+.popular-badge {
+  background: #E8B5C8 !important;
+}
+
+/* Pricing Card Featured Border */
+.pricing-card.featured {
+  border-color: #E8B5C8 !important;
+}
+
+/* Testimonial Stars */
+.testimonial-stars {
+  color: #E8B5C8 !important;
+}
+
+/* Testimonial Author */
+.testimonial-author {
+  color: #E8B5C8 !important;
+}
+
+/* Commitment Item Icons */
+.commitment-item i {
+  color: #E8B5C8 !important;
+}
+
+/* Step Number Circle */
+.step-number {
+  background: #E8B5C8 !important;
+}
+
+/* Gallery Overlay Gradient */
+.gallery-overlay {
+  background: linear-gradient(to top, rgba(232,181,200,0.9), transparent) !important;
+}
+
+/* Mobile Toggle & Phone Button Hover */
+.mobile-toggle:hover svg,
+.phone-header-btn:hover svg {
+  color: #E8B5C8 !important;
+}
+
+/* Form Focus States */
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: #E8B5C8 !important;
+}
+
+/* WhatsApp Float Button */
+.whatsapp-float {
+  background: #E8B5C8 !important;
+}
+
+/* Secondary Text Color */
+.intro-content p,
+.story-content p,
+.approach-content p,
+.vintage-content p,
+.portfolio-intro p,
+.testimonial-card p,
+.faq-item p,
+.service-detail-content p,
+.pricing-intro p {
+  color: #8B7B6B !important;
+}
+
+/* Ensure all inline styled buttons use the new pink */
+[style*="background-color: #e895c7"],
+[style*="background: #e895c7"],
+[data-element-type="button"][style*="#e895c7"] {
+  background-color: #E8B5C8 !important;
+  background: #E8B5C8 !important;
+  border-color: #E8B5C8 !important;
+}
+
+/* Ensure hover states for inline styled buttons */
+[style*="background-color: #e895c7"]:hover,
+[style*="background: #e895c7"]:hover,
+[data-element-type="button"][style*="#e895c7"]:hover {
+  background-color: #D9A4B7 !important;
+  background: #D9A4B7 !important;
+  border-color: #D9A4B7 !important;
+}
+
+/* Link colors and accents */
+a {
+  color: #E8B5C8 !important;
+}
+
+a:hover {
+  color: #D9A4B7 !important;
+}
+
+/* Service section backgrounds - ensure proper alternation */
+.section:nth-of-type(odd) {
+  background: #F5EFE7 !important;
+}
+
+.section:nth-of-type(even) {
+  background: #B8C9B8 !important;
+}
+
+/* Contact section background */
+.contact-section {
+  background: #F5EFE7 !important;
+}
+
+/* Legal footer adjustments for new color scheme */
+.legal-footer {
+  background-color: #F5EFE7 !important;
+  border-top-color: #E8B5C8 !important;
+}
+
+.legal-footer .footer-social a:hover {
+  color: #E8B5C8 !important;
+}
+
+.legal-footer .footer-legal a:hover {
+  color: #E8B5C8 !important;
+}

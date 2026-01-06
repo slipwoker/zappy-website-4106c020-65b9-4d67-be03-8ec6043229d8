@@ -1,6 +1,4 @@
-# פנטזיה זורמת — Generative Engine Optimization Map
-
-> A צילום business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -26,6 +24,12 @@ https://fantasia-zoremet.zappy5.app/about
 https://fantasia-zoremet.zappy5.app/contact
 צרו איתנו קשר להזמנת צילום מקצועי. צילומי ילדים בסטודיו בישראל, צלם משפחה מקצועי וצילומי חלאקה מיוחדים.
 
+### גלריה - פנטזיה זורמת
+https://fantasia-zoremet.zappy5.app/gallery
+
+### גלריית צילומים
+https://fantasia-zoremet.zappy5.app/photo-gallery
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -44,15 +48,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About פנטזיה זורמת
-פנטזיה זורמת is a business in the צילום industry.
-
-## Target Audience
-משפחות והורים
-
-## Industry
-צילום
-
+## About Business
 ---
 
 # Additional Resources
