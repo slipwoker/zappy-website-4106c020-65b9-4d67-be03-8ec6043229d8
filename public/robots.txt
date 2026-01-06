@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/sitemap.xml
+Sitemap: https://fantasia-zoremet.zappy5.app/sitemap.xml

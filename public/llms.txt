@@ -1,67 +1,57 @@
-# פנטזיה זורמת — Generative Engine Optimization Map
-
-> A צילום business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com
+https://fantasia-zoremet.zappy5.app
 גלו צילום מקצועי שלוכד רגעים בלתי נשכחים. צילומי ילדים בסטודיו בישראל עם נגיעה אישית וייחודית.
 
 ### שירותים
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/services
+https://fantasia-zoremet.zappy5.app/services
 גלו את מגוון שירותי הצילום המקצועיים שלנו: צילומי ילדים בסטודיו בישראל, צלם משפחה מקצועי וצילומי חלאקה מיוחדים.
 
 ### תיק עבודות
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/portfolio
+https://fantasia-zoremet.zappy5.app/portfolio
 צפו בתיק העבודות שלנו וגלו את איכות הצילום המקצועית שלנו. צילומי משפחה, ילדים וחלאקה בסגנון וינטג' ייחודי.
 
 ### אודות
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/about
+https://fantasia-zoremet.zappy5.app/about
 הכירו את פנטזיה זורמת - צלם משפחה מקצועי המתמחה בצילומי ילדים בסטודיו בישראל. הסיפור שלנו, הערכים והגישה המיוחדת שלנו.
 
 ### צור קשר
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/contact
+https://fantasia-zoremet.zappy5.app/contact
 צרו איתנו קשר להזמנת צילום מקצועי. צילומי ילדים בסטודיו בישראל, צלם משפחה מקצועי וצילומי חלאקה מיוחדים.
 
 ### גלריה - פנטזיה זורמת
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/gallery
+https://fantasia-zoremet.zappy5.app/gallery
 
 ### גלריית צילומים
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/photo-gallery
+https://fantasia-zoremet.zappy5.app/photo-gallery
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/privacy
+https://fantasia-zoremet.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/terms
+https://fantasia-zoremet.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/accessibility
+https://fantasia-zoremet.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About פנטזיה זורמת
-פנטזיה זורמת is a business in the צילום industry.
-
-## Target Audience
-משפחות והורים
-
-## Industry
-צילום
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-4106c020-65b9-4d67-be03.onrender.com/robots.txt
+- **Sitemap**: https://fantasia-zoremet.zappy5.app/sitemap.xml
+- **Robots.txt**: https://fantasia-zoremet.zappy5.app/robots.txt
